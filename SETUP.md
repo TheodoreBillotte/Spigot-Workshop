@@ -7,9 +7,7 @@
 - [Vérification](#vérification-que-tout-a-bien-été-fait)
 
 ## Installation (Faire avant le Workshop)
-- [Java 19](https://www.oracle.com/fr/java/technologies/downloads/#java19)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)
-- [Spigot 1.19.3](https://getbukkit.org/download/spigot)
 - [Minecraft](https://www.minecraft.net/fr-fr/download)
     - [Minecraft Crack](https://tlauncher.org/jar)
 
